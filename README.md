@@ -1,5 +1,7 @@
 Overview :
-A project to-do list (also known as a project task list or checklist) outlines all the steps necessary to complete a project. CRUD (Create, Read, Update, Delete) operations commonly associated with to-do list applications. These operations form the backbone of data manipulation and are essential for managing tasks efficiently:
+A project to-do list (also known as a project task list or checklist) outlines all the steps necessary to complete a project. 
+
+CRUD (Create, Read, Update, Delete) operations commonly associated with to-do list applications. These operations form the backbone of data manipulation and are essential for managing tasks efficiently:
 
 
 Technology :
