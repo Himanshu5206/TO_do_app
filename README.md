@@ -6,6 +6,8 @@ CRUD (Create, Read, Update, Delete) operations commonly associated with to-do li
 
 
 Technologies Used:
+
+
 React: A popular JavaScript library for building user interfaces.
 Tailwind CSS: A utility-first CSS framework for creating responsive and stylish designs.
 Vite: A fast build tool and development server for modern web projects.
